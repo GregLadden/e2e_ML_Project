@@ -57,7 +57,7 @@ myenv\Scripts\activate
 
 ```
 
-## Install required packages
+## 5. **Install required packages**
 
 ```
 pip install -r requirements.txt
