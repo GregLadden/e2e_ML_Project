@@ -32,3 +32,12 @@ To start working with Jupyter Notebooks, follow these steps:
    ```bash
    jupyter notebook
    ```
+
+## Acknowledgments
+
+This project is based on the book:
+
+- **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition**  
+  _Aurélien Géron_
+
+We would like to thank Aurélien Géron for providing such a comprehensive resource that guided the development of this project.
