@@ -33,6 +33,14 @@ pip install -r requirements.txt
 
 ## Documentation
 
+**Running Make Commands**
+
+To streamline and automate various tasks in this project, we use a `Makefile` that allows you to easily run predefined commands. The `Makefile` provides a set of targets that correspond to different functionalities, such as data visualization and correlation analysis. To execute a command, simply use the `make` command followed by the target name. For example, to generate a histogram of median house values, you would run:
+
+```bash
+make plot_histogram
+```
+
 ## Acknowledgments
 
 This project is based on chapter 2 in the book:
