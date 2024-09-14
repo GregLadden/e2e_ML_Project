@@ -6,32 +6,32 @@ This repository provides a machine learning project focused on predicting median
 
 Before you begin, make sure you have the necessary tools and dependencies installed. For detailed setup instructions, please refer to the [prerequisites guide](docs/prerequisites.md).
 
-## Starting Jupyter Notebooks
+This project outputs results via the command line. If you prefer to run the application in Jupyter Notebooks, please follow the instructions [here](docs/jupyter_notebooks.md).
 
-To start working with Jupyter Notebooks, follow these steps:
+## Installation
 
-1. **Activate the Virtual Environment**
+Clone this repository using either HTTPS or SSH:
 
-   Make sure your virtual environment is activated. Depending on your operating system, use the appropriate command:
+**HTTPS:**
 
-   - **macOS/Linux:**
+```bash
+git clone https://github.com/GregLadden/ml_housing_corp.git
+```
 
-     ```bash
-     source myenv/bin/activate
-     ```
+**SSH:**
 
-   - **Windows:**
-     ```bash
-     myenv\Scripts\activate
-     ```
+```bash
+git clone https://github.com/GregLadden/ml_housing_corp.git
+```
 
-2. **Launch Jupyter Notebook**
+> **Note:** Before installation, it’s recommended to activate your virtual environment before installing the packages. Please refer to the [environment setup](#) for instructions on how to set up and activate it.
 
-   With your virtual environment activated, start the Jupyter Notebook server by running:
+```bash
+cd ml_housing_corp
+pip install -r requirements.txt
+```
 
-   ```bash
-   jupyter notebook
-   ```
+## Documentation
 
 ## Acknowledgments
 
