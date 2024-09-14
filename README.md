@@ -10,6 +10,27 @@ This project outputs results via the command line. If you prefer to run the appl
 
 ## Installation
 
+Clone this repository using either HTTPS or SSH:
+
+**HTTPS:**
+
+```bash
+git clone https://github.com/GregLadden/ml_housing_corp.git
+```
+
+**SSH:**
+
+```bash
+git clone https://github.com/GregLadden/ml_housing_corp.git
+```
+
+> **Note:** Before installation, it’s recommended to activate your virtual environment before installing the packages. Please refer to the [environment setup](#) for instructions on how to set up and activate it.
+
+```bash
+cd ml_housing_corp
+pip install -r requirements.txt
+```
+
 ## Documentation
 
 ## Acknowledgments
