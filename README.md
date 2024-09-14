@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Acknowledgments
 
-This project is based on the book:
+This project is based on chapter 2 in the book:
 
 - **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition**  
   _Aurélien Géron_
