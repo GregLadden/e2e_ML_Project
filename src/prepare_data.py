@@ -67,7 +67,7 @@ def prepare_and_transform_data():
     # Create and apply a full pipeline for both numerical and categorical attributes
     housing_prepared, full_pipeline = create_pipeline(housing)
 
-    # Optionally, print or return the data for verification
+    # Print to confirm data 
     print(housing_tr.head())
     print(housing_cat_1hot.toarray())
     print(housing_prepared)
