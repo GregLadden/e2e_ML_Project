@@ -5,3 +5,5 @@ pandas
 jupyter
 notebook
 plotly.express
+plotly
+scipy
