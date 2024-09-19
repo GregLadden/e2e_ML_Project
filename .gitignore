@@ -1,3 +1,6 @@
 ml_housing_corp/*
 .idea
 Pycharm/*
+__pycache__/
+*.pyc
+.git
